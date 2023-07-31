@@ -1,3 +1,3 @@
-# buc_mobil
+# Basit Seviyede Burç Uygulaması
 
 A new Flutter project.
